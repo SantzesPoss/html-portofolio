@@ -653,11 +653,3 @@ button {
 button:hover {
     background: #555;
 }
-
-#education {
-    /* Ensure the section takes up full width and aligns text properly */
-    width: 100%;
-    text-align: left; /* or center, depending on your design needs */
-    margin: 0 auto; /* Centering the section itself if needed */
-    padding: 1rem 0; /* Consistent padding */
-}
