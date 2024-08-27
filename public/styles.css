@@ -564,16 +564,12 @@ body {
         color: #fff;
         text-decoration: none;
     }
-
-    
     
     section {
         padding: 1rem 2rem; /* Added padding to sections */
         max-width: 800px; /* Set a max width for better readability */
         margin: 0 auto; /* Center the section content */
     }
-    
-
     
     h2 {
         margin-bottom: 1rem;
@@ -656,4 +652,12 @@ button {
 
 button:hover {
     background: #555;
+}
+
+#education {
+    /* Ensure the section takes up full width and aligns text properly */
+    width: 100%;
+    text-align: left; /* or center, depending on your design needs */
+    margin: 0 auto; /* Centering the section itself if needed */
+    padding: 1rem 0; /* Consistent padding */
 }
